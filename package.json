@@ -36,7 +36,7 @@
         "@types/webassembly-js-api": "^0.0.2",
         "chess.js": "^0.10.2",
         "chessboardjs": "^0.0.1",
-        "cordova-android": "7.1.4",
+        "cordova-android": "11.0.0",
         "cordova-plugin-device": "^2.0.2",
         "cordova-plugin-insomnia": "4.3.0",
         "cordova-plugin-ionic-keyboard": "^2.1.3",
